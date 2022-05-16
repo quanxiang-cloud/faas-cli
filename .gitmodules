@@ -1,0 +1,6 @@
+[submodule "internal/template/faas-lowcode"]
+	path = internal/template/faas-lowcode
+	url = https://github.com/quanxiang-cloud/faas-lowcode.git
+[submodule "internal/template/faas-lowcode-interface"]
+	path = internal/template/faas-lowcode-interface
+	url = https://github.com/quanxiang-cloud/faas-lowcode-interface.git
